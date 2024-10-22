@@ -15,3 +15,9 @@ Pretende ser un software de codigo abierto, el cuál se base en proporcionar una
  -  Puede conseguir tú token gratis, registrandote al siguente bot: ***@SoftBirdx_bot***.
  -  Bot con disponibilidad 24/7.
 
+# Arquitectura y Sistemas Disponibles
+  - Android ( Termux)
+  - Linux
+  - Windows
+  - ARQ -> [*amd64, ARM*]
+
