@@ -47,7 +47,7 @@ Pretende ser un software de codigo abierto, el cuál se base en proporcionar una
 
 ## DNI PAGE
 <p align="center">
-<img width="70%" height="70%" src="https://github.com/Eduardx-2/softbird/blob/main/sofd1.png"/>
+<img width="70%" height="70%" src="https://github.com/Eduardx-2/softbird/blob/main/dni_p.png"/>
 </a>
 </p>
 
