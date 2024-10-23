@@ -1,5 +1,9 @@
 # softbird
-Pretende ser un software de codigo abierto, el cuál se base en proporcionar una FingerPrint fake (Una huella digital falsa), con él fin de generar anonimato no solo en páginas que pidan registrarse o proporcionar una identificación. 
+Pretende ser un software de codigo abierto, el cuál se base en proporcionar una FingerPrint fake (Una huella digital falsa), con él fin de generar anonimato no solo en páginas que pidan registrarse o proporcionar una identificación.
+<p align="center">
+<img width="70%" height="70%" src="https://github.com/Eduardx-2/softbird/blob/main/sofd1.png"/>
+</a>
+</p>
 
 # Lenguajes
  - Python 3.11
