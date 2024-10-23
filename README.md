@@ -16,8 +16,28 @@ Pretende ser un software de codigo abierto, el cuál se base en proporcionar una
  -  Bot con disponibilidad 24/7.
 
 # Arquitectura y Sistemas Disponibles
-  - Android ( Termux)
+  - Android ( Termux) Version 7+
   - Linux
   - Windows
   - ARQ -> [*amd64, ARM*]
+
+# Caracteristicas
+ - Compatibilidad con Android (Termux +7)
+ - Compatibilidad con diferentes sistemas Operativos
+ - Python 3.7 > Ultima Versión
+ - Java 17
+ - Servidor Local
+ - Consultas Eficientes
+ - Soporte Mediante Bot
+
+# Instalación
+```console
+
+# git clone https://github.com/Eduardx-2/softbird.git
+# cd softbird
+# pip o pip3 -> pip install requirements.txt
+# python o python3 -> python soft.py
+# Copie el link que se tendria que ver así: http://127.0.0.1:puerto y coloquelo en su navegador como busqueda.
+
+```
 
